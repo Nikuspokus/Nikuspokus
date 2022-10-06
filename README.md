@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on<br>🤝 I'm looking for help to learn tricks in vuejs<br>🌱 I am currently learning how to create a healthy and efficient vuejs ecosystem, for my projects<br>⚡ And to say that 5 years ago I was doing COBOL
+🔭 I am currently working on several Vue3 projects<br>🤝 I'm looking for help to learn tricks in vuejs<br>🌱 I am currently learning how to create a healthy and efficient vuejs ecosystem, for my projects<br>⚡ And to say that 5 years ago I was doing COBOL
 
 
 ## 🌐 Socials:
