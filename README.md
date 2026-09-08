@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on several Vue3 projects<br>🤝 I'm looking for help to learn tricks in vuejs<br>🌱 I am currently learning how to create a healthy and efficient vuejs ecosystem, for my projects<br>⚡ I started coding in COBOL
+🚀 Fullstack JS developer, currently at Artuxia (Euratechnologies, Lille)<br>🔭 I work daily with Vue 3, Nuxt and a bit of Angular<br>🌱 I'm currently leveling up on NestJS<br>🧭 Coming from Vue/Nuxt, exploring Svelte on the side<br>🎬 Unconventional path: 3D/VFX school → dev → COBOL/IBM → fullstack JS<br>⚡ I care about clean architecture from conception to delivery
 
 
 ## 🌐 Socials:
